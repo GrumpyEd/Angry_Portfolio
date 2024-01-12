@@ -1,1 +1,1 @@
-All about that gold!
+let portfolio = 1;
